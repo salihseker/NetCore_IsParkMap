@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsParkMap.Entities", "IsParkMap.Entities\IsParkMap.Entities.csproj", "{5E2B1208-2284-4093-9F39-418258388A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2B1208-2284-4093-9F39-418258388A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2B1208-2284-4093-9F39-418258388A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2B1208-2284-4093-9F39-418258388A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2B1208-2284-4093-9F39-418258388A14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7564E090-1427-47A9-9F47-2D576B48DBD7}
+	EndGlobalSection
+EndGlobal
